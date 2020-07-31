@@ -9,21 +9,12 @@ Diamond is a solid form of the element carbon with its atoms arranged in a cryst
 
 **Why are diamonds so valuable?**
 
-Diamonds of a certain size, generally half a carat and above, are traded and processed by the industry individually. Each has unique attributes and a corresponding unique market place. 
-
-Diamonds of smaller sizes are traded in parcels of similar stones, called 'melee'.
-
- 
-
-where:
+The rarer the stone, the more expensive! Like a good wine or a limited edition car.
 
 ## **Data**
 There are 1 different datasource involved:
 
     Diamonds_train.csv
-
-
-
 
 > The links below have been used as reference:
 - [Lumera](https://www.lumeradiamonds.com/)
